@@ -18,7 +18,7 @@
         app:layout_constraintVertical_bias="0.064" />
 
     <EditText
-        android:id="@+id/editText"
+        android:id="@+id/edtGasoline"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -43,7 +43,7 @@
         tools:layout_editor_absoluteY="137dp" />
 
     <EditText
-        android:id="@+id/editText2"
+        android:id="@+id/edtEthanol"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -53,7 +53,7 @@
         tools:layout_editor_absoluteY="156dp" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btnCalculate"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Calculate"
